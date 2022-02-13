@@ -1,7 +1,7 @@
-
 import './App.css';
 import Barranav from './components/Barranav/Barranav';
 import Itemlist from './components/itemListContainer/itemListContainer';
+import Contador from './components/contador/contador';
 function App() {
   return (
     <div className="App">
